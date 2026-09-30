@@ -1,0 +1,46 @@
+body { background-color: darkslateblue;
+  font-family: monospace;
+    
+}
+
+img { width: 85%;
+  
+}
+
+h1 { text-align: center;
+  color: darkslateblue;
+    
+font-family:serif;
+    
+}
+
+h2 {
+text-align: center;
+  color:darkblue;
+}
+
+p1 {
+    text-align: left;
+  color: darkblue;
+}
+section {
+  background-color: seashell;
+    width: 90%;
+        padding:30px;
+    margin:20px;
+box-sizing: border-box;
+
+}
+p2 {
+color: darkblue;
+  
+}
+
+p4 {
+    color: darkblue;
+  
+}
+h3 {
+  color: hotpink;
+text-align: center;
+}
